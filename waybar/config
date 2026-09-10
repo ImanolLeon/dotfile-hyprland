@@ -1,0 +1,64 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 30,
+
+    "modules-left": [
+        "custom/rofi"
+    ],
+
+    "modules-center": [
+        "hyprland/workspaces"
+       
+    ],
+
+    "modules-right": [
+        "clock",
+        "cpu",
+        "memory",
+        "pulseaudio",
+        "network",
+        "battery"
+    ],
+
+    "hyprland/workspaces": {
+        "format": "󰮯",
+        "on-click": "activate",
+        "sort-by-number": true
+    },
+
+    "custom/rofi": {
+        "format": "󰀻",
+        "on-click": "rofi -show drun",
+        "tooltip": false
+    },
+
+    "clock": {
+        "format": "󰥔 {:%H:%M}",
+        "format-alt": "󰃭 {:%d/%m/%Y}"
+    },
+
+    "cpu": {
+        "format": "󰍛 {usage}%"
+    },
+
+    "memory": {
+        "format": " {}%"
+    },
+
+    "pulseaudio": {
+        "format": "󰕾 {volume}%",
+        "format-muted": "󰝟 Muted",
+        "on-click": "pavucontrol"
+    },
+
+    "network": {
+        "format-wifi": "󰤨 {essid}",
+        "format-ethernet": "󰈀 Conectado",
+        "format-disconnected": "󰤭 Sin conexión"
+    },
+
+    "battery": {
+        "format": "󰁹 {capacity}%"
+    }
+}
