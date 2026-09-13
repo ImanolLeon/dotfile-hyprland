@@ -1,10 +1,13 @@
 {
     "layer": "top",
     "position": "top",
-    "height": 30,
+    "height": 15,
 
     "modules-left": [
-        "custom/rofi"
+        "custom/rofi",
+        "custom/dolphin",
+        "custom/nvim",
+        "custom/kitty"
     ],
 
     "modules-center": [
@@ -28,11 +31,26 @@
     },
 
     "custom/rofi": {
-        "format": "󰀻",
+        "format": "",
         "on-click": "rofi -show drun",
         "tooltip": false
     },
 
+    "custom/dolphin": {
+        "format": "",
+        "on-click": "dolphin",
+        "tooltip": false
+    },
+    "custom/nvim": {
+        "format": "",
+        "on-click": "kitty -d ~ nvim",
+        "tooltip": false
+    },
+     "custom/kitty": {
+        "format": "",
+        "on-click": "kitty",
+        "tooltip": false
+    },
     "clock": {
         "format": "󰥔 {:%H:%M}",
         "format-alt": "󰃭 {:%d/%m/%Y}"
