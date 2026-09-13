@@ -26,3 +26,6 @@ Mi configuración personal de Hyprland, diseñada con un enfoque moderno, minima
 ### kitty
 <img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/b19aff32-1d03-4296-ae0a-0a21cf23813c" />
 
+### btop 
+<img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/a6cd8f07-c719-4ea2-8c36-a86ef33ea250" />
+
