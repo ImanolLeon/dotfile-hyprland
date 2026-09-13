@@ -94,7 +94,7 @@ sudo pacman -S grim slurp
 ```
 sudo pacman -S dolphin
 ```
-
+# Descargar hypaper (Fondo de pantalla)
 # Descargar heramienta para conectarse a internet 
 
 
