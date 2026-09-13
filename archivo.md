@@ -89,6 +89,12 @@ hl.bind(mainMod .. " + F", hl.dsp.exec_cmd(fileManager))
 ```bash
 sudo pacman -S grim slurp
 ```
+El comando usado para que nos de 4 segundos es 
+
+```
+sleep 4 && grim -g "$(slurp)" ~/Pictures/screenshot.png
+```
+ 
 # Descarga dolphin (administrador de archivos) pero con fondo oscuro
 
 ```
@@ -98,6 +104,7 @@ sudo pacman -S dolphin
 
 # Descargar imv para ver fondos en lugar de fech
 
+# Descargar btop (Mejor que htop , tiene mas colores)
 # Descargar heramienta para conectarse a internet 
 
 

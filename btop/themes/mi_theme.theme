@@ -1,0 +1,70 @@
+# ~/.config/btop/themes/mi-tema.theme
+
+# Background / foreground
+theme[main_bg]="#1e1e2e"
+theme[main_fg]="#cdd6f4"
+
+# Titles
+theme[title]="#b4befe"
+theme[hi_fg]="#b4befe"
+
+# Selected items
+theme[selected_bg]="#45475a"
+theme[selected_fg]="#f5e0dc"
+
+# Inactive text
+theme[inactive_fg]="#6c7086"
+
+# Graphs
+theme[graph_text]="#cdd6f4"
+theme[meter_bg]="#45475a"
+
+# CPU
+theme[cpu_start]="#89b4fa"
+theme[cpu_mid]="#b4befe"
+theme[cpu_end]="#cba6f7"
+
+# Memory
+theme[mem_start]="#a6e3a1"
+theme[mem_mid]="#94e2d5"
+theme[mem_end]="#74c7ec"
+
+# Network
+theme[net_start]="#94e2d5"
+theme[net_mid]="#74c7ec"
+theme[net_end]="#89b4fa"
+
+# Processes
+theme[proc_start]="#89b4fa"
+theme[proc_mid]="#cba6f7"
+theme[proc_end]="#f5c2e7"
+
+# Temperature
+theme[temp_start]="#a6e3a1"
+theme[temp_mid]="#f9e2af"
+theme[temp_end]="#f38ba8"
+
+# Battery
+theme[bat_start]="#a6e3a1"
+theme[bat_mid]="#f9e2af"
+theme[bat_end]="#f38ba8"
+
+# Free space
+theme[free_start]="#a6e3a1"
+theme[free_mid]="#f9e2af"
+theme[free_end]="#f38ba8"
+
+# Used space
+theme[used_start]="#89b4fa"
+theme[used_mid]="#cba6f7"
+theme[used_end]="#f5c2e7"
+
+# Download
+theme[download_start]="#94e2d5"
+theme[download_mid]="#74c7ec"
+theme[download_end]="#89b4fa"
+
+# Upload
+theme[upload_start]="#cba6f7"
+theme[upload_mid]="#f5c2e7"
+theme[upload_end]="#f38ba8"
