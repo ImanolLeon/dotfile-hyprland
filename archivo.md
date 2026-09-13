@@ -89,6 +89,12 @@ hl.bind(mainMod .. " + F", hl.dsp.exec_cmd(fileManager))
 ```bash
 sudo pacman -S grim slurp
 ```
+# Descarga dolphin (administrador de archivos) pero con fondo oscuro
+
+```
+sudo pacman -S dolphin
+```
+
 # Descargar heramienta para conectarse a internet 
 
 
