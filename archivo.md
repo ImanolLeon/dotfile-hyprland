@@ -95,6 +95,9 @@ sudo pacman -S grim slurp
 sudo pacman -S dolphin
 ```
 # Descargar hypaper (Fondo de pantalla)
+
+# Descargar imv para ver fondos en lugar de fech
+
 # Descargar heramienta para conectarse a internet 
 
 
