@@ -1,8 +1,20 @@
 # Hyprland Dotfiles
+Mi configuración personal de Hyprland, diseñada con un enfoque moderno, minimalista y funcional. Utiliza herramientas y tecnologías actuales del ecosistema Linux, manteniendo una estructura organizada y modular para facilitar su mantenimiento y personalización.
 
-Descripción breve de tu configuración.
+## ✨ Features
 
-## THEME
+| Component         | Program    |
+|-------------------|------------|
+| Windows Manager 🪟| [hyprland](https://github.com/hyprwm/Hyprland)  |
+| Terminal 🖥️       | [kitty](https://github.com/kovidgoyal/kitty)        |
+| Shell 🐚          | [fish](https://fishshell.com/)
+| imv 🖼️          | [catnip](https://github.com/exec64/imv) 
+| File Manager 📁   | [ranger](https://github.com/ranger/ranger)      |
+| Editor 📝         | [neovim](https://github.com/neovim/neovim) |
+| Bar 📊            | [waybar](https://github.com/Alexays/Waybar)      |
+| Launcher 🚀       | [rofi](https://github.com/davatorium/rofi)          |
+
+## Preview
 <img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/fef52dfb-5b52-420d-9a57-96b5a362028f" />
 
 ### Rofi
@@ -13,26 +25,4 @@ Descripción breve de tu configuración.
 
 ### kitty
 <img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/b19aff32-1d03-4296-ae0a-0a21cf23813c" />
-
-
-## ✨ Features
-
-- Hyprland
-- Waybar
-- Rofi 
-- Kitty
-- nvim
-
-## 🛠️ Requisitos
-
-Lista de programas y dependencias necesarias.
-
-### Dependencias principales
-
-```bash
-hyprland
-waybar
-rofi
-kitty
-``` 
 
